@@ -1,4 +1,4 @@
-![Snake Game](../README.md/image/ARH%20Logo%20(3).png)
+![Snake Game](./image/ARH%20Logo%20(3).png)
 
 
 ### Date: 6/5/2020
@@ -13,7 +13,7 @@
 
 ### Technology used
 
-![Snake Game](../README.md/image/download%20(2).png)
+![Snake Game](./image/download%20(2).png)
 
 ***
 
